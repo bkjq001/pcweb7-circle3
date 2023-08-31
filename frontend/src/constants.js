@@ -1,0 +1,9 @@
+export const API ="http://localhost:3000";
+export const POSTS ="/posts";
+export const ADD ="/add";
+export const POST = "/post";
+export const DELETE ="/post";
+export const USERS ="/users";
+export const ADDUSER ="/adduser";
+export const USER ="/users/user";
+export const DELETEUSER ="/users/user";
